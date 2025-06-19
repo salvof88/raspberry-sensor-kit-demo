@@ -1,0 +1,5 @@
+Un kit completo per leggere dati da sensori di distanza HC-SR04 (ultrasuoni) e temperatura/umidità DHT11 usando Python su Raspberry Pi, esportando dati su file CSV o Google Sheets.
+Perfetto per esperimenti IoT, logging smart home, o kit DIY su Raspberry Pi Zero.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+A lightweight Raspberry Pi sensor logger in Python for HC-SR04 (ultrasound) and DHT11 (temperature/humidity), exporting data to CSV or Google Sheets.
+Perfect for IoT experiments, smart home logging, or Raspberry Pi Zero DIY kits.
